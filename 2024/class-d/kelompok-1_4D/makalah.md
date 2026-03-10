@@ -44,11 +44,7 @@ Oleh karena itu, penting untuk memahami bagaimana hubungan antara sains dan agam
 4. Untuk menganalisis secara lebih mendalam konflik yang terjadi antara sains dan agama serta dampaknya terhadap perkembangan ilmu pengetahuan dan peradaban manusia.
 
 # BAB II : PEMBAHASAN
-**2.1 Bagaimana pola hubungan antara sains dan agama?**
 
-Menyelami hubungan antara agama dan sains, ada dua interprestasi ekstrem untuk hubungan ini. Satu pandangan menjelaskan bahwa sains dan agama adalah musuh bebuyutan, dan bahwa sejarah modern dibentuk oleh pertarungan hidup mati antara pengetahuan saintifik dan takhayul keagamaan. Pada saatnya nanti, cahaya sains akan menyingkirkan kegelapan agama, dan dunia menjadi semakin sekuler, rasional, dan makmur. Sains selalu membutuhkan bantuan agama dalam rangka menciptakan institusi-institusi kemanusiaan yang tangguh. Para ilmuwan mempelajari bagaimana dunia berfungsi, tetapi tidak ada metode saintifik untuk memastikan bagaimana manusia harus berperilaku. Sebagian orang melompat ke ekstrem yang berlawanan, dan mengatakan bahwa sains dan agama adalah kerajaan-kerajaan yang sama sekali terpisah. 
-
-Sains mempelajari fakta-fakta, sementara agama berbicara tentang nilai-nilai, dan keduanya tidak pernah akan bertemu. Agama tak mengatakan apa-apa tentang fakta saintifik, dan sains harus diam berkenaan dengan keyakinan agama. Jika orang percaya bahwa kehidupan manusia sakral. Meskipun sains memang berhubungan dengan fakta-fakta, agama tidak pernah mengurung dirinya pada ketetapan-ketetapan etis. Agama tidak bisa memberi kita pendoman praktis apa pun tanpa membuat klaim-klaim faktual tertentu, dan di sinilah agama bisa tertabrakan dengan sains. Segmen yang paling penting dari banyak dogma agama bukan prinsip-prinsip etis mereka, tapi justru pernyataan faktanya seperti "Tuhan ada", "jiwa dihukum atas dosa-dosanya nanti di akhirat", "Bible ditulis oleh Tuhan, bukan oleh manusia", "Paus tidak pernah salah." Semua ini adalah klaim klaim yang faktual. Banyak diatara sebagian besar prrdebatan panas keagamaan dan banyak konflik antara sains dan agama, melibatkan klaim-klaim faktual semacam itu, dibandingkan dalam urusan etis.
 
 **2.2 ⁠Jelaskan menggunakan data historis yang terverifikasi akar konfliknya pada pembabakan yunani, romawi, abad kegelapan, kebangkitan dan modern.**
 
