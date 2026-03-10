@@ -60,7 +60,7 @@ Adapun tujuan penulisan makalah ini adalah:
 
 Pada abad kegelapan, penyelesaian sebuah konflik atau masalah hanya didasarkan pada Tuhan maupun kitab suci. Hal ini menjadikan Tuhan sebagai sumber tertinggi bukan hanya dalam makna, melainkan juga dalam hal otoritas. Sekarang, hal ini telah berubah. Selama berabad-abad, humanisme telah berusaha meyakinkan bahwa manusia merupakan sumber tertinggi sehingga bebas mengandalkan pikiran dan perasaan sendiri. 
 
-Kemudian, pada masa kebangkitan, konflik berakar pada perdebatan validitas kebenaran antara pengamatan empiris sains dan agama. Di masa ini, Harari menyatakan manusia mulai sepakat bahwa walaupun sains lebih banyak berkontribusi pada perdebatan etis, tanpa bimbingan dari agama, tatanan sosial berskala besar tidak mungkin bertahan. 
+Kemudian, pada masa kebangkitan, konflik berakar pada perdebatan validitas kebenaran antara pengamatan empiris sains dan agama. Di masa ini, banyak terjadi perdebatan, tetapi pada akhirnya manusia mulai sepakat bahwa walaupun sains lebih banyak berkontribusi pada perdebatan etis, tanpa bimbingan dari agama, tatanan sosial berskala besar tidak mungkin bertahan. 
 
 Lalu, pada masa modern, konflik terjadi karena perpecahan humanisme. Terdapat cabang humanisme ortodoks yang dikenal sebagai liberalisme. Kemudian, pada abad 19 dan 20, dua cabang humanisme lain tumbuh, yaitu humanisme sosialis dan evolusioner. Kedua cabang tidak mempercayai adanya kekuatan transdental atau hukum ilahiah serta kaum sosialis dan evolusioner berpendapat bahwa pemahaman liberal tentang pengalaman manusia adalah cacat.
 
