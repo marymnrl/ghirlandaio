@@ -6,7 +6,7 @@
 
 
 
-Dosen pengampu : Al Muhdil Karim, S.IP., M.Hum
+**Dosen pengampu : Al Muhdil Karim, S.IP., M.Hum**
 
 Disusun oleh :
 
