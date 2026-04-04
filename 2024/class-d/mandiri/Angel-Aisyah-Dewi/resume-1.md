@@ -17,6 +17,8 @@ Jika kita berbicara tentang “Apa yang terjadi pada masa Renaissance?" tentu sa
 Renaissance merupakan suatu peristiwa kompleks yang mempengaruhi transisi dalam sejarah kehidupan di Eropa. Renaissance memberikan perubahan signifikan pada perkembangan ilmu pengetahuan, seni, serta cara manusia berpikir. Singkatnya, masa Renaissance adalah masa transisi yang menghubungkan abad pertengahan dengan dunia modern saat ini, penemuan-penemuan baru terus hadir dan membuat kehidupan manusia yang serba mudah di zaman sekarang. 
 
 ## Daftar Pustaka
-Mahayana, H., Affandi, U., Anis, A., Setiawan, I., & Nurasiah. (2026). Renaissance: The rise of art, culture and science in Europe. JIM: Jurnal Ilmiah Mahasiswa Pendidikan Sejarah, 10(4), 1–6. 
-Chen, C. (2023). Research on the influence of western Renaissance thought on modern painting art. Journal of Education, Humanities and Social Sciences, 15, 202–206. 
+Mahayana, H., Affandi, U., Anis, A., Setiawan, I., & Nurasiah. (2026). Renaissance: The rise of art, culture and science in Europe. JIM: Jurnal Ilmiah Mahasiswa Pendidikan Sejarah.
+
+Chen, C. (2023). Research on the influence of western Renaissance thought on modern painting art. Journal of Education, Humanities and Social Sciences.
+
 Ferguson, W. K. (2023). The Renaissance. Braunfell Books.
