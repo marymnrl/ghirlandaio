@@ -1,3 +1,8 @@
+# 
+<img src="/2024/class-b/LOGO_UIN_JKT.png" alt="Logo_UIN_JAKARTA" width="500" height="600">
+
+
+
 ## 1.2 Rumusan Masalah
 1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
 2. Bagiamana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang.
