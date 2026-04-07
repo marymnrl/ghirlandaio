@@ -7,11 +7,11 @@
 Al Muhdil Karim, S.IP, M.Hum.
 
 ### Disusun oleh Kelompok 3 :
-Naila Ahnafani (12402051010004)
+1. Naila Ahnafani (12402051010004)
 
-Ramzi Maysan (12402051030039)
+2. Ramzi Maysan (12402051030039)
 
-Malika Azzara (12402051050118)
+3. Malika Azzara (12402051050118)
 
 Kelas 4A
 ### PROGRAM STUDI ILMU PERPUSTAKAAN
