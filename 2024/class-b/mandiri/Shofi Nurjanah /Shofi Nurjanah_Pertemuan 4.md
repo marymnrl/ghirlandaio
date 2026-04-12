@@ -7,3 +7,5 @@ Negara berperan besar dalam mengarahkan teknologi lewat riset dan infrastruktur.
 Dalam hal ini teknologi diarahkan untuk negara menjaga agar teknologi tetap menguntungkan pemilik modal saja. Akibatnya, teknologi tidak hanya menjadi alat kemajuan, tapi juga menjadi instrumen politik dan ekonomi untuk memperkuat kapitalisme.
 ## Kesimpulan
 Jadi, dapat disimpulkan bahwa teknologi diposisikan sebagai instrumen politik-ekonomi untuk mempertahankan dominasi kapital, bukan cuma sebagai sarana kemajuan yang netral. Hal ini dilihat dari negara yang punya peran mengarahkan perkembangan teknologi, tapi arah perkembangannya dibuat supaya mengguntungkan pemilik modal
+## Daftar Pustaka
+**Makalah kelompok 1 (2026).** Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka
