@@ -19,3 +19,7 @@ Tapi terus terang, _open source_ hari ini tetap hidup di dalam sistem yang masih
 ## Kesimpulan
 
 Kalau dilihat secara garis besarnya, _open source_ memang punya kemiripan dengan gagasan Marx. Keduanya menekankan keterbukaan dan kepemilikan bersama. Sejarah juga membuktikan hal itu dalam buku Troublemakers, kita bisa lihat teknologi maju karena kerja sama banyak orang, bukan hasil kerja satu dua individu saja. Tapi ya, persamaannya tidak sepenuhnya utuh. Sistem _open source_ tetap bergerak di lingkup ekonomi yang memikirkan profit juga. Jadi, _open source_ bisa dibilang membawa semangat kebersamaan, tapi tidak benar-benar lepas dari sistem yang jalan sekarang.
+
+## Daftar Pustaka
+
+**Berlin, L. (2017)**. _Troublemakers: Silicon Valley’s Coming of Age_. Simon & Schuster.
