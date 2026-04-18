@@ -15,6 +15,17 @@ Perpustakaan modern tidak lepas dari penggunaan sistem informasi perpustakaan ya
 
 Selain itu, teknologi terkini seperti *Artificial Intelligence* (AI) memiliki potensi besar untuk meningkatkan efisiensi dalam manajemen koleksi dan interaksi pemustaka. AI dapat membantu dalam analisis data pemustaka, memberikan rekomendasi yang lebih tepat, dan menyederhanakan proses pengelolaan koleksi.
 
+### 2.2 Integrasi Teknologi dalam Pengelolaan Arsip Digital
+Pengolahan yang awalnya berbasis kertas sebagian sudah dialih mediakan menjadi arsip digital. Arsip digital menjadi penanda pergeseran cara pandang masyarakat pada cara informasi disimpan, diorganisir dan diakses. Cara pandang dalam pengelolaan arsip digital menjadi tren serta konsentrasi pada banyak institusi. Hadirnya arsip digital memberikan kemudahan hingga berbagai peluang yang belum dimiliki oleh arsip berbasis kertas dalam pengelolaannya. Arsip digital menghadirkan perubahan secara signifikan dalam kecepatan dan kemudahan pada proses distribusi dibanding arsip berbasis kertas. 
+
+Pengelolaan arsip digital mencakup dua hal, yakni penyimpanan arsip dan penemuan arsip kembali. Proses penyimpanan arsip digital adalah kegiatan mengelola arsip yang terdiri dari proses perpindahan media arsip hingga penataan arsip ke bentuk media baru. Perpindahan media arsip merupakan suatu proses memindahkan media arsip dari bentuk media ke bentuk media arsip yang lain. Proses perpindahan didukung oleh alat pemindai (*scanner*) bertujuan untuk menjaga fisik dan informasi arsip. Arsip elektronik dapat dibuat dan disimpan sekaligus. Integrasi langsung ke sistem pengarsipan elektronik dimungkinkan untuk file elektronik baru yang dibuat di komputer. 
+
+Setiap arsip yang dihasilkan secara digital perlu dikirim. Ada banyak teknik untuk mengirimkan media arsip, termasuk pemindaian (proses pemindaian dokumen untuk membuat data dan gambar), konversi (proses mengubah dokumen menjadi data gambar permanen), dan impor (transfer data secara elektronik ke dalam sistem EDM). `Pengalihan media arsip memiliki dua tujuan yakni sebagai pelestarian arsip (arsip statis) dan meningkatkan kecepatan layanan akses (aktif dan inaktif)`. `Meningkatkan kecepatan layanan akses berhubungan dengan pengelolaan arsip secara efektif dan efisien`. 
+
+Apabila dibutuhkan satu arsip yang tergabung di dalam ribuan bahkan jutaan arsip maka proses pencarian akan sulit dan memakan waktu yang lama. Seiring kemajuan teknologi, sistem kearsipan dapat digitalisasi yang menawarkan sejumlah kemudahan. `Digitalisasi arsip bertujuan supaya arsip beserta dokumen dapat disimpan lebih sederhana, praktis serta terjaga dalam keamanannya`. Di era kemajuan teknologi ini, arsiparis mulai beralih dari media penyimpanan secara manual berbentuk *hardcopy* menuju media digital berupa *softcopy*. 
+
+Setelah dipertimbangkan terdapat sejumlah keuntungan dan efisiensi yang didapat dari digitalisasi arsip ketimbang arsip konvensional. Salah satu keuntungan yang diperoleh dari digitalisasi arsip adalah `penghematan ruang penyimpanan kearsipan`. Tak dapat dipungkiri, semakin banyak jumlah arsip menyebabkan semakin banyak pula ruang penyimpanan yang diperlukan. Dengan adanya digitalisasi arsip hal tersebut dapat disederhanakan dengan cara pengalihan media arsip konvensional ke media arsip elektronik maka menjadi lebih efisien dan sederhana.
+
 ## BAB Ⅲ PENUTUP
 ### 3.1 KESIMPULAN
 
