@@ -68,3 +68,13 @@ Semua ini dapat membebani anggaran perpustakaan, terutama bagi institusi dengan 
 Serangan cyber memiliki dampak yang luas terhadap perpustakaan, tidak hanya dari sisi teknis tetapi juga operasional dan kepercayaan publik. Dampaknya meliputi gangguan layanan, kerusakan koleksi digital, kebocoran data pengguna, hingga kerugian reputasi dan finansial.
 
 Dengan demikian, keamanan cyber menjadi aspek yang sangat penting untuk menjaga keberlangsungan perpustakaan sebagai penyedia dan penjaga informasi di era digital.
+
+---
+## DAFTAR PUSTAKA
+Christen, M., Gordijn, B., & Loi, M. (Eds.). (2020). The Ethics of Cybersecurity. Springer Nature Switzerland AG. https://doi.org/10.1007/978-3-030-29053-5
+
+Haqqi, F., Ghozal, M. S., & Fitriani, A. S. (2024). Jenis-jenis Ancaman Siber dan Penerapan Cyber Security. [Modul Pelatihan]. Tanpa kota: Tanpa penerbit.
+
+Ranganathan, S. R. (1931). The Five Laws of Library Science. Madras Library Association & Edward Goldston.
+
+
